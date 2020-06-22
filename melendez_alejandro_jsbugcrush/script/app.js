@@ -12,9 +12,6 @@ let imageNames = ["topLeft", "topRight", "bottomLeft", "bottomRight"];
             puzzlePieces[index].src = `images/${piece + this.dataset.bgkey}.jpg`;
         });
 
-
-
-//-----------------------------------------------
         gameBoard.style.backgroundImage = `url(images/backGround${this.dataset.bgkey}.jpg)`;
     } 
 
