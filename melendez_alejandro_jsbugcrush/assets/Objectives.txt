@@ -1,0 +1,10 @@
+ Multimedia Authoring 2 - Troubleshooting (Crushing Bugs)
+
+Objectives:
+- Make it so each puzzle piece becomes attached to the area its dropped on
+- Make it so each puzzle does not inherit the status of the previous one
+- Create a reset buttom
+
+Bugs
+1) Limit drop zones to one puzzle-piece
+2) Reset needs to refresh the game board
