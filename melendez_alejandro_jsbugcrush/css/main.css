@@ -122,3 +122,23 @@ footer {
 #buttonHolder img:hover {
     opacity: .5;
 }
+
+.resetbutton
+{
+border: 3px solid white;
+border-radius:10px;
+background-color:black;
+width: 120px;
+margin-left:auto;
+margin-right:auto;
+margin-top:20px;
+margin-bottom:20px;
+cursor:pointer;
+}
+
+.resetbutton:hover
+{
+background-color:white;
+border: 3px solid white;
+color:black;
+}
